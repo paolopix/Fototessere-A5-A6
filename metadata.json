@@ -1,0 +1,6 @@
+{
+  "name": "FotoTessera A5 - Stampa 35x45mm",
+  "description": "Ritaglia, scala, ruota e centra fototessere nel formato 35x45mm con esportazione PDF A5 a 4 copie distanziate di 1 cm con riquadro di taglio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
